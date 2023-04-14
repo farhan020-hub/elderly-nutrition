@@ -12,3 +12,9 @@ this was my final year project and anyone is allowed to use the project for thei
 All the best.
 
 Here is the link to view the web application https://elderly-nutrition.netlify.app/index.html
+
+Sample images section
+
+![Screenshot (41)](https://user-images.githubusercontent.com/66677739/232045237-bab8416c-8783-4216-87bb-ddd936585927.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/66677739/232045332-a8b7f620-13e5-4656-8dec-631f8c7fd362.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/66677739/232045371-f9ad70f8-e635-4451-96a3-de2cf757255d.png)
