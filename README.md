@@ -8,7 +8,7 @@ about section.
 
 This is only the frontend of the application
 
-this was my final year project and anyone is allowed to use the project for their own purpose.
+this was my project and anyone is allowed to use the project for their own purpose.
 All the best.
 
 Here is the link to view the web application https://elderly-nutrition.netlify.app/index.html
